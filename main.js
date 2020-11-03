@@ -48,3 +48,12 @@ $(document).keydown(function(){
         nextPhoto();
     }
 })
+
+
+// BONUS IN FASE DI REALIZZAZIONE
+// $(".fas.last").click(function(){
+//     currentPhoto.removeClass("active");
+//     currentCircle.removeClass("active");
+//     $("img.last").addClass("active");
+//     $("i.last").addClass("active");
+// })
